@@ -91,13 +91,13 @@ h1{
        <h1>Mizuki kitagawa's portfolio</h1>
    <div class="select"> 
         <nav>
-    <img src="image/prof.png" alt="アイコン" 
+    <img src="image/prof.png" alt="�A�C�R��" 
         width="50" height="50"> 
-     <a href="#prf" style="color: white;"><b>Profiile</b></a>    　  
+     <a href="#prf" style="color: white;"><b>Profiile</b></a>    �@  
     
-     <img src="image/PC.png" alt="スキル"
+     <img src="image/PC.png" alt="�X�L��"
         width="50" height="50"> 
-     <a href="#skil" style="color: white;"><b>Used</b></a>　　
+     <a href="#skil" style="color: white;"><b>Used</b></a>�@�@
     
     <img src="image/Mail.png" alt="Mail"
         width="50" height="50">       
@@ -109,38 +109,38 @@ h1{
 
 <div id="prf">
   <br>
-    <img src="image/prof.png" alt="アイコン"
+    <img src="image/prof.png" alt="�A�C�R��"
       width="50" height="50"> 
       <span style="font-size: 215%;"><b>Profiile</b></span>
     <p></p>
-    <br> 初めまして、私は北川美月と申します。
-    <br>学生時代にプログラミングを始め、
-        今は新社会人として学んでいる最中です。
-    <br>触れたことのある言語も少ない為、
-        まだ出来ることは少ないですが、
-    <br>今後知識を増やし活躍していきたいです。  
+    <br> ���߂܂��āA���͖k������Ɛ\���܂��B
+    <br>�w������Ƀv���O���~���O���n�߁A
+        ���͐V�Љ�l�Ƃ��Ċw��ł���Œ��ł��B
+    <br>�G�ꂽ���Ƃ̂��錾������Ȃ��ׁA
+        �܂��o���邱�Ƃ͏��Ȃ��ł����A
+    <br>����m���𑝂₵���􂵂Ă��������ł��B  
 </div>
 
 
 <div id="skil">
     <br>
-    <img src="image/PC.png" alt="スキル"
+    <img src="image/PC.png" alt="�X�L��"
         width="52" height="52"> 
         <span style="font-size: 215%;"><b>Used</b></span>
     <p></p>
-    <br>現在は成果物が無い為、学生時代に主に使用していた
-    <br>言語やソフトについて書きたいと思います。<p></p>
+    <br>���݂͐��ʕ��������ׁA�w������Ɏ�Ɏg�p���Ă���
+    <br>�����\�t�g�ɂ��ď��������Ǝv���܂��B<p></p>
     
     <div class="ul">
         <div class="ul1">
-         <ul>言語 
+         <ul>���� 
          <li>PHP</li> 
          <li>JavaScript</li>
          </ul>
         </div>
 
         <div class="ul2">
-         <ul>ソフト
+         <ul>�\�t�g
          <li>Word</li> 
          <li>Excel</li>
          <li>PowerPoint</li>
@@ -152,7 +152,7 @@ h1{
 
 <div id="mail"> 
     <br>
-     <img src="image/Mail.png" alt="アイコン"
+     <img src="image/Mail.png" alt="�A�C�R��"
         width="50" height="50"> 
     <span style="font-size: 220%;"><b>Mail</b></span>
     <p></p>
@@ -164,7 +164,7 @@ h1{
         
          <div class = "link">
              <nav><a href="#top" style="color: black;">
-             <b>TOPへ</b></a>
+             <b>TOP��</b></a>
          </div>
     </p>
 </div>
